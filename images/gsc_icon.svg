@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 75.057495 27.51037"
+   height="27.51037mm"
+   width="75.057495mm">
+  <defs
+     id="defs2">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5442">
+      <stop
+         id="stop5440"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient4524">
+      <stop
+         id="stop4522"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <filter
+       height="1.1269418"
+       y="-0.063470885"
+       width="1.0660193"
+       x="-0.033009648"
+       id="filter6006"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur6008"
+         stdDeviation="1.1442227" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-39.387919,-40.937941)"
+     id="layer1">
+    <rect
+       transform="matrix(0.89166051,0.32681495,-0.89166051,0.32681495,-0.38763099,16.174735)"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.86917591;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6006);image-rendering:auto"
+       y="-3.6111228"
+       x="83.085884"
+       height="38.385181"
+       width="38.385181"
+       id="rect3715" />
+    <text
+       id="text5448"
+       y="45.83482"
+       x="60.85416"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:cmex10;-inkscape-font-specification:cmex10;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:cmex10;-inkscape-font-specification:cmex10;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="45.83482"
+         x="60.85416"
+         id="tspan5446">GSC</tspan></text>
+  </g>
+</svg>
